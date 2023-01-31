@@ -23,22 +23,18 @@ This is my first project on Fraud detection using AI and ML.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Nagaraj Gandge</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1989</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>India</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Red</dd>
 </dl>
 
 ```
